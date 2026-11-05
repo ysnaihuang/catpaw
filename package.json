@@ -1,0 +1,14 @@
+{
+  "name": "catpaw-js-sources",
+  "version": "1.0.0",
+  "description": "CatPaw / CatVodOpen (猫爪) Node.js 49 视频源自动打包仓库 (生成 index.js + index.js.md5)",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node build.js",
+    "start": "node -e \"import('./dist/index.js').then(m => (m.start || m.default.start)({ port: 3000 }))\""
+  },
+  "devDependencies": {
+    "esbuild": "^0.20.0"
+  }
+}

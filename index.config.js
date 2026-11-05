@@ -1,4 +1,53 @@
-const config = {
+module.exports = {
+  "18av": {},
+  "18jspa": {},
+  "37cyx4": {},
+  "51chigua": {},
+  "91dasai": {},
+  "porn91": {},
+  "porna91": {},
+  "aiwei": {},
+  "mitao": {},
+  "bianfu": {},
+  "haijiaolove": {},
+  "hguoo": {},
+  "huajieyy": {},
+  "hsck1": {},
+  "hsck": {},
+  "jiujiu": {},
+  "kuaigan": {},
+  "lzzm": {},
+  "lzytv": {},
+  "luolidao": {},
+  "mbss": {},
+  "shaonvpochu": {},
+  "ssnnav": {},
+  "taohua": {},
+  "wanwu": {},
+  "xxs": {},
+  "xyc": {},
+  "xbsp": {},
+  "yin_hua_gong": {},
+  "yunvbaike": {},
+  "yunvxj": {},
+  "yuwangzhiyan": {},
+  "zhangyu": {},
+  "goodav17": {},
+  "blibli": {},
+  "badnews": {},
+  "getav": {},
+  "guosetianxiang": {},
+  "javheo": {},
+  "javtiful": {},
+  "lookluping": {},
+  "missav": {},
+  "ow63": {},
+  "pornav": {},
+  "supjav": {},
+  "uushipin": {},
+  "xhongyan": {},
+  "xn69": {},
+  "xx9": {},
   "video": {
     "sites": [
       {
@@ -542,5 +591,3 @@ const config = {
     }
   ]
 };
-config.default = config;
-module.exports = config;
